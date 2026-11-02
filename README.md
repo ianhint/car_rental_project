@@ -1,8 +1,8 @@
-# 🚗 Car Rental Booking System
+#  Car Rental Booking System
 
 A web-based Car Rental Booking System developed using PHP, MySQL, JavaScript, HTML, CSS, and Bootstrap 5. This system helps customers book rental cars and allows administrators to manage cars, customers, bookings, and payments.
 
-## 📌 Project Information
+##  Project Information
 
 - **Project Name:** Car Rental Booking System
 - **Student Name:** Ismail Hossain
@@ -11,7 +11,7 @@ A web-based Car Rental Booking System developed using PHP, MySQL, JavaScript, HT
 - **Project Level:** Intermediate
 - **Development Approach:** Standard PHP Forms (No AJAX)
 
-## ✨ Project Highlights
+##  Project Highlights
 
 - Customer Registration, Login, and Logout
 - Browse and Search Rental Cars
@@ -41,7 +41,7 @@ A web-based Car Rental Booking System developed using PHP, MySQL, JavaScript, HT
 | XAMPP | Local Development Server |
 | Git & GitHub | Version Control |
 
-## 🚫 No AJAX
+##  No AJAX
 
 This project uses standard HTML forms with PHP `GET` and `POST` methods.
 
@@ -68,13 +68,11 @@ Main database tables:
 - wishlists
 - maintenance
 
-## 📂 Project Documentation
+##  Project Documentation
 
 The project documentation PDF is available in this repository.
 
-[Car Rental Booking System Documentation](./Car_Rental_Booking_System_Documentation_Revised.pdf)
-
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Install [XAMPP](https://www.apachefriends.org/).
 2. Start Apache and MySQL.
@@ -88,7 +86,7 @@ The project documentation PDF is available in this repository.
 
    `http://localhost/car_rental/`
 
-## 🔐 Security Features
+##  Security Features
 
 - Password Hashing
 - Prepared Statements
@@ -97,7 +95,7 @@ The project documentation PDF is available in this repository.
 - Role-based Access Control
 - Input Sanitization
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Online Payment Gateway Integration
 - Email and SMS Notifications
@@ -105,7 +103,7 @@ The project documentation PDF is available in this repository.
 - Advanced Reports and Analytics
 - Mobile Application
 
-## 👨‍💻 Developer
+##  Developer
 
 **Ismail Hossain**  
 Trainee ID: 1297568  
@@ -113,5 +111,5 @@ Batch: PWAD/USSAL-M/01/73
 
 ---
 
-⭐ Thank you for visiting my project repository!
+Thank you for visiting my project repository!
 "# car_rental_project" 
