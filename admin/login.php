@@ -3,10 +3,10 @@ session_start();
 
 $error = "";
 
-if (isset($_SESSION['admin_logged_in'])) {
-    header("Location: dashboard.php");
-    exit();
-}
+// if (isset($_SESSION['admin_logged_in'])) {
+//     header("Location: dashboard.php");
+//     exit();
+// }
 
 if (isset($_POST['login'])) {
 
